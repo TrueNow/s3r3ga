@@ -9,7 +9,7 @@
 ___________________
 slogan
 ___________________
---->
+
 ### Contacts:
 [![CodeWars](https://user-images.githubusercontent.com/77568008/182330707-d3d9e647-8a41-457e-87fc-e15b50db5b63.png)](https://github.com/s3r3ga)
 [LeetCode](https://leetcode.com/s3r3ga/)
